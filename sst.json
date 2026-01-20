@@ -1,0 +1,245 @@
+{
+  "subject": "sst",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Resource and Development",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4622695/176519912253107125088/176519912253107125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Nationalism in India",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4631892/176597918089537125088/176597918089537125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Power Sharing",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4619473/176485272836577125088/176485272836577125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Rise of Nationalism in Europe",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4623776/176528746347517125088/176528746347517125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Sectors of Indian Economy",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4626135/176545874451477125088/176545874451477125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "Federalism",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4629350/176580427812747125088/176580427812747125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch7",
+      "title": "Forests and Wildlife resources",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4630615/176588947454377125088/176588947454377125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch8",
+      "title": "Doubt Solving Session",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4624973/176537131694357125088/176537131694357125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch9",
+      "title": "Gender, Religion and Caste",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4637418/176649594895587125088/176649594895587125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "The Making of a Global World",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4639416/176666634849717125088/176666634849717125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Money and Credit",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4636092/176640936083167125088/176640936083167125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Water as Resources",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4638667/176658189099587125088/176658189099587125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Globalization and The Indian Economy",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4643508/176709995312547125088/176709995312547125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "Political Parties",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4645842/1767349712_2780078522505248/sunny/1767349584802_331452749349900160_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "Agriculture",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4647977/176761807248797125088/176761807248797125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "Print Culture and The Modern World",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4649166/176770648025187125088/176770648025187125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "title": "Outcomes of democracy",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4652695/176787687026937125088/176787687026937125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "title": "Minerals and energy resources",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4656135/176822491282987125088/176822491282987125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "title": "Manufacturing Industries",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4658160/176839575287257125088/176839575287257125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "title": "Map work",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4659288/176848238832727125088/176848238832727125088_7125088.m3u8",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

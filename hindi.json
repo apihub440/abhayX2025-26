@@ -1,0 +1,77 @@
+{
+  "subject": "hindi",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "पाठ 2 राम - लक्ष्मण - परशुराम संवाद (तुलसीदास)",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4609038/1763811290_2661239597551092/sunny/1763807838683_403519602776254850_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "पद परिचय-व्याकरण",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4610105/1763983376_3748481645398823/sunny/1763982650590_644595109380469000_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "पाठ 3 आत्मकथ्य (जयशंकर प्रसाद)",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4609035/1763811286_5003870547846764/sunny/1763803164605_160630437031946400_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "सूरदास पद",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4609037/1763811289_1636867103072854/sunny/1763805057363_668920727711582700_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "पाठ 4 उत्साह, अट नहीं रही है (सूर्यकांत त्रिपाठी 'निराला')",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4609036/1763811288_9112965569212646/sunny/1763804156706_452550857991475900_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "कृतिका भाग 2 पाठ 1 शिवपूजन सहाय (माता का अँचल)",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Lecture 1",
+          "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4609201/1763822290_6982375435132325/sunny/1763820042411_179096630278267700_video_VOD.m3u8",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
